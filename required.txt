@@ -1,0 +1,7 @@
+librosa
+IPython
+numpy
+matplotlib
+resampy
+dtw
+fastdtw
